@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.2"
+  },
+  "main": "index.js",
+  "author": "Luu Dai",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3"
+  }
+}
