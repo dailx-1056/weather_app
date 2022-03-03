@@ -1,1 +1,3 @@
-console.log('hello word');
+import weather from './src/dump_data/weather.json';
+
+console.log(weather);
